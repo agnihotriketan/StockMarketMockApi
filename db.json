@@ -13,83 +13,83 @@
       "dividendYield": "1.5%",
       "earningsPerShare": 5.25,
       "website": "https://www.apple.com/",
-     "timeSeries": [
-  {
-    "date": "2023-09-01",
-    "price": 150.25,
-    "volume": "20M"
-  },
-  {
-    "date": "2023-09-02",
-    "price": 151.50,
-    "volume": "18M"
-  },
-  {
-    "date": "2023-09-03",
-    "price": 152.75,
-    "volume": "22M"
-  },
-  {
-    "date": "2023-09-04",
-    "price": 152.00,
-    "volume": "19M"
-  },
-  {
-    "date": "2023-09-05",
-    "price": 153.25,
-    "volume": "21M"
-  },
-  {
-    "date": "2023-09-06",
-    "price": 152.50,
-    "volume": "20M"
-  },
-  {
-    "date": "2023-09-07",
-    "price": 152.75,
-    "volume": "23M"
-  },
-  {
-    "date": "2023-09-08",
-    "price": 152.25,
-    "volume": "22M"
-  },
-  {
-    "date": "2023-09-09",
-    "price": 153.00,
-    "volume": "24M"
-  },
-  {
-    "date": "2023-09-10",
-    "price": 153.50,
-    "volume": "26M"
-  },
-  {
-    "date": "2023-09-11",
-    "price": 153.75,
-    "volume": "25M"
-  },
-  {
-    "date": "2023-09-12",
-    "price": 154.00,
-    "volume": "27M"
-  },
-  {
-    "date": "2023-09-13",
-    "price": 154.25,
-    "volume": "28M"
-  },
-  {
-    "date": "2023-09-14",
-    "price": 154.50,
-    "volume": "29M"
-  },
-  {
-    "date": "2023-09-15",
-    "price": 154.75,
-    "volume": "30M"
-  }
-],
+      "timeSeries": [
+        {
+          "date": "2023-09-01",
+          "price": 150.25,
+          "volume": "20M"
+        },
+        {
+          "date": "2023-09-02",
+          "price": 151.5,
+          "volume": "18M"
+        },
+        {
+          "date": "2023-09-03",
+          "price": 152.75,
+          "volume": "22M"
+        },
+        {
+          "date": "2023-09-04",
+          "price": 152,
+          "volume": "19M"
+        },
+        {
+          "date": "2023-09-05",
+          "price": 153.25,
+          "volume": "21M"
+        },
+        {
+          "date": "2023-09-06",
+          "price": 152.5,
+          "volume": "20M"
+        },
+        {
+          "date": "2023-09-07",
+          "price": 152.75,
+          "volume": "23M"
+        },
+        {
+          "date": "2023-09-08",
+          "price": 152.25,
+          "volume": "22M"
+        },
+        {
+          "date": "2023-09-09",
+          "price": 153,
+          "volume": "24M"
+        },
+        {
+          "date": "2023-09-10",
+          "price": 153.5,
+          "volume": "26M"
+        },
+        {
+          "date": "2023-09-11",
+          "price": 153.75,
+          "volume": "25M"
+        },
+        {
+          "date": "2023-09-12",
+          "price": 154,
+          "volume": "27M"
+        },
+        {
+          "date": "2023-09-13",
+          "price": 154.25,
+          "volume": "28M"
+        },
+        {
+          "date": "2023-09-14",
+          "price": 154.5,
+          "volume": "29M"
+        },
+        {
+          "date": "2023-09-15",
+          "price": 154.75,
+          "volume": "30M"
+        }
+      ],
       "news": [
         {
           "title": "Apple Announces New iPhone Models",
@@ -103,27 +103,25 @@
           "timestamp": "2023-08-30T14:30:00Z",
           "link": "https://www.reuters.com/apple-earnings"
         }
-        
       ],
       "analystRatings": [
         {
           "rating": "Buy",
-          "targetPrice": 165.00,
+          "targetPrice": 165,
           "analystCount": 10
         },
         {
           "rating": "Hold",
-          "targetPrice": 150.00,
+          "targetPrice": 150,
           "analystCount": 8
         }
-        
       ]
     },
     {
       "id": 2,
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "price": 2650.10,
+      "price": 2650.1,
       "change": "-1.30",
       "description": "Alphabet Inc. is the parent company of Google and several other subsidiaries.",
       "marketCap": "1.8T",
@@ -135,15 +133,79 @@
       "timeSeries": [
         {
           "date": "2023-09-01",
-          "price": 2650.10,
+          "price": 2650.1,
           "volume": "8M"
         },
         {
           "date": "2023-09-02",
-          "price": 2649.00,
+          "price": 2649,
           "volume": "9M"
+        },
+        {
+          "date": "2023-09-03",
+          "price": 2648.5,
+          "volume": "10M"
+        },
+        {
+          "date": "2023-09-04",
+          "price": 2651.25,
+          "volume": "12M"
+        },
+        {
+          "date": "2023-09-05",
+          "price": 2652.75,
+          "volume": "11M"
+        },
+        {
+          "date": "2023-09-06",
+          "price": 2652.5,
+          "volume": "10M"
+        },
+        {
+          "date": "2023-09-07",
+          "price": 2653,
+          "volume": "11M"
+        },
+        {
+          "date": "2023-09-08",
+          "price": 2653.5,
+          "volume": "13M"
+        },
+        {
+          "date": "2023-09-09",
+          "price": 2654,
+          "volume": "12M"
+        },
+        {
+          "date": "2023-09-10",
+          "price": 2654.5,
+          "volume": "14M"
+        },
+        {
+          "date": "2023-09-11",
+          "price": 2655,
+          "volume": "15M"
+        },
+        {
+          "date": "2023-09-12",
+          "price": 2655.5,
+          "volume": "16M"
+        },
+        {
+          "date": "2023-09-13",
+          "price": 2656,
+          "volume": "17M"
+        },
+        {
+          "date": "2023-09-14",
+          "price": 2656.5,
+          "volume": "18M"
+        },
+        {
+          "date": "2023-09-15",
+          "price": 2657,
+          "volume": "19M"
         }
-        
       ],
       "news": [
         {
@@ -158,20 +220,18 @@
           "timestamp": "2023-08-31T16:15:00Z",
           "link": "https://techcrunch.com/google-search"
         }
-        
       ],
       "analystRatings": [
         {
           "rating": "Buy",
-          "targetPrice": 2700.00,
+          "targetPrice": 2700,
           "analystCount": 12
         },
         {
           "rating": "Hold",
-          "targetPrice": 2600.00,
+          "targetPrice": 2600,
           "analystCount": 7
         }
-        
       ]
     },
     {
@@ -183,7 +243,7 @@
       "description": "Microsoft Corporation is a multinational technology company known for its software products.",
       "marketCap": "2.2T",
       "volume": "12M",
-      "peRatio": 35.60,
+      "peRatio": 35.6,
       "dividendYield": "1.2%",
       "earningsPerShare": 8.15,
       "website": "https://www.microsoft.com/",
@@ -195,10 +255,74 @@
         },
         {
           "date": "2023-09-02",
-          "price": 306.50,
+          "price": 306.5,
           "volume": "11M"
+        },
+        {
+          "date": "2023-09-03",
+          "price": 306.25,
+          "volume": "10M"
+        },
+        {
+          "date": "2023-09-04",
+          "price": 305.8,
+          "volume": "9M"
+        },
+        {
+          "date": "2023-09-05",
+          "price": 306,
+          "volume": "8M"
+        },
+        {
+          "date": "2023-09-06",
+          "price": 306.2,
+          "volume": "7M"
+        },
+        {
+          "date": "2023-09-07",
+          "price": 306.75,
+          "volume": "6M"
+        },
+        {
+          "date": "2023-09-08",
+          "price": 306.9,
+          "volume": "5M"
+        },
+        {
+          "date": "2023-09-09",
+          "price": 307,
+          "volume": "4M"
+        },
+        {
+          "date": "2023-09-10",
+          "price": 307.25,
+          "volume": "3M"
+        },
+        {
+          "date": "2023-09-11",
+          "price": 307.5,
+          "volume": "2M"
+        },
+        {
+          "date": "2023-09-12",
+          "price": 307.75,
+          "volume": "1M"
+        },
+        {
+          "date": "2023-09-13",
+          "price": 308,
+          "volume": "500K"
+        },
+        {
+          "date": "2023-09-14",
+          "price": 308.25,
+          "volume": "250K"
+        },
+        {
+          "date": "2023-09-15",
+          "price": 308.5,
+          "volume": "100K"
         }
-        
       ],
       "news": [
         {
@@ -213,27 +337,24 @@
           "timestamp": "2023-08-30T17:00:00Z",
           "link": "https://www.wsj.com/microsoft-earnings"
         }
-        
       ],
       "analystRatings": [
         {
           "rating": "Buy",
-          "targetPrice": 320.00,
+          "targetPrice": 320,
           "analystCount": 15
         },
         {
           "rating": "Hold",
-          "targetPrice": 310.00,
+          "targetPrice": 310,
           "analystCount": 9
         }
-        
       ]
     }
-    
   ],
   "economicIndicators": {
     "gdpGrowthRate": 5.2,
-    "unemploymentRate": 4.0,
+    "unemploymentRate": 4,
     "inflationRate": 2.5
   },
   "marketIndices": {
@@ -241,6 +362,5 @@
       "name": "S&P 500",
       "value": 4500
     }
-    
   }
 }
