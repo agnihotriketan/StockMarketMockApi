@@ -23,7 +23,36 @@
           "date": "2023-09-02",
           "price": 151.50,
           "volume": "18M"
-        } 
+        }
+        
+      ],
+      "news": [
+        {
+          "title": "Apple Announces New iPhone Models",
+          "source": "CNN",
+          "timestamp": "2023-09-01T08:00:00Z",
+          "link": "https://www.cnn.com/apple-news"
+        },
+        {
+          "title": "Apple Reports Record Earnings",
+          "source": "Reuters",
+          "timestamp": "2023-08-30T14:30:00Z",
+          "link": "https://www.reuters.com/apple-earnings"
+        }
+        
+      ],
+      "analystRatings": [
+        {
+          "rating": "Buy",
+          "targetPrice": 165.00,
+          "analystCount": 10
+        },
+        {
+          "rating": "Hold",
+          "targetPrice": 150.00,
+          "analystCount": 8
+        }
+        
       ]
     },
     {
@@ -49,7 +78,36 @@
           "date": "2023-09-02",
           "price": 2649.00,
           "volume": "9M"
-        } 
+        }
+        
+      ],
+      "news": [
+        {
+          "title": "Alphabet Reports Strong Quarterly Results",
+          "source": "Bloomberg",
+          "timestamp": "2023-09-02T09:30:00Z",
+          "link": "https://www.bloomberg.com/alphabet-earnings"
+        },
+        {
+          "title": "Google Launches New Search Algorithm",
+          "source": "TechCrunch",
+          "timestamp": "2023-08-31T16:15:00Z",
+          "link": "https://techcrunch.com/google-search"
+        }
+        
+      ],
+      "analystRatings": [
+        {
+          "rating": "Buy",
+          "targetPrice": 2700.00,
+          "analystCount": 12
+        },
+        {
+          "rating": "Hold",
+          "targetPrice": 2600.00,
+          "analystCount": 7
+        }
+        
       ]
     },
     {
@@ -75,8 +133,50 @@
           "date": "2023-09-02",
           "price": 306.50,
           "volume": "11M"
-        } 
+        }
+        
+      ],
+      "news": [
+        {
+          "title": "Microsoft Unveils New Cloud Services",
+          "source": "CNBC",
+          "timestamp": "2023-09-01T15:45:00Z",
+          "link": "https://www.cnbc.com/microsoft-cloud"
+        },
+        {
+          "title": "Microsoft Reports Quarterly Earnings",
+          "source": "The Wall Street Journal",
+          "timestamp": "2023-08-30T17:00:00Z",
+          "link": "https://www.wsj.com/microsoft-earnings"
+        }
+        
+      ],
+      "analystRatings": [
+        {
+          "rating": "Buy",
+          "targetPrice": 320.00,
+          "analystCount": 15
+        },
+        {
+          "rating": "Hold",
+          "targetPrice": 310.00,
+          "analystCount": 9
+        }
+        
       ]
-    } 
-  ]
+    }
+    
+  ],
+  "economicIndicators": {
+    "gdpGrowthRate": 5.2,
+    "unemploymentRate": 4.0,
+    "inflationRate": 2.5
+  },
+  "marketIndices": {
+    "sAndP500": {
+      "name": "S&P 500",
+      "value": 4500
+    }
+    
+  }
 }
