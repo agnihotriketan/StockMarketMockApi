@@ -5,21 +5,78 @@
       "symbol": "AAPL",
       "name": "Apple Inc.",
       "price": 150.25,
-      "change": "+2.45"
+      "change": "+2.45",
+      "description": "Apple Inc. is a multinational technology company that produces consumer electronics, software, and services.",
+      "marketCap": "2.5T",
+      "volume": "20M",
+      "peRatio": 28.75,
+      "dividendYield": "1.5%",
+      "earningsPerShare": 5.25,
+      "website": "https://www.apple.com/",
+      "timeSeries": [
+        {
+          "date": "2023-09-01",
+          "price": 150.25,
+          "volume": "20M"
+        },
+        {
+          "date": "2023-09-02",
+          "price": 151.50,
+          "volume": "18M"
+        }, 
+      ]
     },
     {
       "id": 2,
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
       "price": 2650.10,
-      "change": "-1.30"
+      "change": "-1.30",
+      "description": "Alphabet Inc. is the parent company of Google and several other subsidiaries.",
+      "marketCap": "1.8T",
+      "volume": "8M",
+      "peRatio": 30.45,
+      "dividendYield": "0.8%",
+      "earningsPerShare": 35.75,
+      "website": "https://abc.xyz/",
+      "timeSeries": [
+        {
+          "date": "2023-09-01",
+          "price": 2650.10,
+          "volume": "8M"
+        },
+        {
+          "date": "2023-09-02",
+          "price": 2649.00,
+          "volume": "9M"
+        }, 
+      ]
     },
     {
       "id": 3,
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
       "price": 305.75,
-      "change": "+0.90"
-    }
+      "change": "+0.90",
+      "description": "Microsoft Corporation is a multinational technology company known for its software products.",
+      "marketCap": "2.2T",
+      "volume": "12M",
+      "peRatio": 35.60,
+      "dividendYield": "1.2%",
+      "earningsPerShare": 8.15,
+      "website": "https://www.microsoft.com/",
+      "timeSeries": [
+        {
+          "date": "2023-09-01",
+          "price": 305.75,
+          "volume": "12M"
+        },
+        {
+          "date": "2023-09-02",
+          "price": 306.50,
+          "volume": "11M"
+        }, 
+      ]
+    }, 
   ]
 }
