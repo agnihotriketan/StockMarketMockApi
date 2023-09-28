@@ -13,19 +13,83 @@
       "dividendYield": "1.5%",
       "earningsPerShare": 5.25,
       "website": "https://www.apple.com/",
-      "timeSeries": [
-        {
-          "date": "2023-09-01",
-          "price": 150.25,
-          "volume": "20M"
-        },
-        {
-          "date": "2023-09-02",
-          "price": 151.50,
-          "volume": "18M"
-        }
-        
-      ],
+     "timeSeries": [
+  {
+    "date": "2023-09-01",
+    "price": 150.25,
+    "volume": "20M"
+  },
+  {
+    "date": "2023-09-02",
+    "price": 151.50,
+    "volume": "18M"
+  },
+  {
+    "date": "2023-09-03",
+    "price": 152.75,
+    "volume": "22M"
+  },
+  {
+    "date": "2023-09-04",
+    "price": 152.00,
+    "volume": "19M"
+  },
+  {
+    "date": "2023-09-05",
+    "price": 153.25,
+    "volume": "21M"
+  },
+  {
+    "date": "2023-09-06",
+    "price": 152.50,
+    "volume": "20M"
+  },
+  {
+    "date": "2023-09-07",
+    "price": 152.75,
+    "volume": "23M"
+  },
+  {
+    "date": "2023-09-08",
+    "price": 152.25,
+    "volume": "22M"
+  },
+  {
+    "date": "2023-09-09",
+    "price": 153.00,
+    "volume": "24M"
+  },
+  {
+    "date": "2023-09-10",
+    "price": 153.50,
+    "volume": "26M"
+  },
+  {
+    "date": "2023-09-11",
+    "price": 153.75,
+    "volume": "25M"
+  },
+  {
+    "date": "2023-09-12",
+    "price": 154.00,
+    "volume": "27M"
+  },
+  {
+    "date": "2023-09-13",
+    "price": 154.25,
+    "volume": "28M"
+  },
+  {
+    "date": "2023-09-14",
+    "price": 154.50,
+    "volume": "29M"
+  },
+  {
+    "date": "2023-09-15",
+    "price": 154.75,
+    "volume": "30M"
+  }
+],
       "news": [
         {
           "title": "Apple Announces New iPhone Models",
