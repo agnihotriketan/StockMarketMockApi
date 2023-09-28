@@ -1,11 +1,26 @@
 {
-  "posts": [
+  "stocks": [
     {
       "id": 1,
-      "title": "hello"
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": 150.25,
+      "change": "+2.45"
+    },
+    {
+      "id": 2,
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 2650.10,
+      "change": "-1.30"
+    },
+    {
+      "id": 3,
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 305.75,
+      "change": "+0.90"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    // Add more stock data here...
+  ]
 }
