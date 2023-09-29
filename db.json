@@ -7,7 +7,7 @@
     "totalReturnAmount": 28000,
     "totalProfitPercentage": 12
   },
-    "myHoldings": [
+    "userHoldings": [
     {
       "id": 1,
       "symbol": "AAPL",
