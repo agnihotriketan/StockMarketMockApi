@@ -1,4 +1,28 @@
 {
+    "userProfile": {
+    "name": "Ketan Agnihotri",
+    "email": "ketan@example.com",
+    "country": "India",
+    "totalInvestedAmount": 25000,
+    "totalReturnAmount": 28000,
+    "totalProfitPercentage": 12
+  },
+    "myHoldings": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "quantity": 10,
+      "purchasePrice": 145.0,
+      "currentPrice": 150.25
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "quantity": 15,
+      "purchasePrice": 2500.0,
+      "currentPrice": 2700.0
+    }
+  ],
   "stocks": [
     {
       "id": 1,
