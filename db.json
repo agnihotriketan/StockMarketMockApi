@@ -9,6 +9,7 @@
   },
     "myHoldings": [
     {
+      "id": 1,
       "symbol": "AAPL",
       "name": "Apple Inc.",
       "quantity": 10,
@@ -16,6 +17,7 @@
       "currentPrice": 150.25
     },
     {
+      "id": 2,
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
       "quantity": 15,
